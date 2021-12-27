@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to produce weather summary statistics given a large set of climate data.
+The purpose of this analysis is to produce weather summary statistics given a large set of climate data. We will be generating tables of Hawaiian daily temperatures in the months of June and December from 2010 to 2016. We will then produce a table of summary statistics to better display the data.
 
 
 ## Results
